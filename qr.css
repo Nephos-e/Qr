@@ -1,0 +1,31 @@
+body{
+				background: hsl(212,45%,89%);
+}
+.container{
+       min-height: 100vh;
+				justify-content: center;
+				align-items: center;
+				display: flex;
+} 
+.card{
+				width: 350px;
+				background: hsl(0,0%,100%);
+				padding: 10px;
+				border-radius: 15px;	
+}
+img{
+				width: 100%;
+				border-radius: 15px;
+}
+.card-content{
+				text-align: center;
+				padding: 20px;
+				font-family:'Oswald', sans-serif;
+}
+.card-body{
+				color: hsl(220,15%,55%,);
+				font-weight: 4px;
+}
+.card-title{
+				color: hsl(218,44%,22%);
+}
